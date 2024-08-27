@@ -236,7 +236,7 @@ footer{
 }
 /* Tablet or medium Device */
 
-@media screen and (min-width: 567px) and (max-width: 960px) {
+@media screen and (min-width: 567px) and (max-width: 1024px) {
   header {
     padding: 50px;
   }
